@@ -13,7 +13,8 @@ An interactive Power BI Weather Dashboard that fetches real-time weather data us
 | **DAX	Calculations**| Calculations for metrics and visual elements              | 
 
 ## 📷 Preview
-<img src = "https://github.com/user-attachments/assets/92a87a78-88a9-427e-a2c0-682ee061630d" width = "500px" height = "400px">
+<img src = "https://github.com/user-attachments/assets/92a87a78-88a9-427e-a2c0-682ee061630d" width = "800px" height = "400px"> 
+
 --- 
 ## 📊 Dashboard Highlights
 - 🌡️ Current Temperature & Conditions (Auto-updates per location)
